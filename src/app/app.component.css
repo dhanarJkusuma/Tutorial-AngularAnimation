@@ -1,0 +1,11 @@
+.center-component{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    box-shadow:  1px 1px 1px #888888;
+}
+
+.container-mt{
+    padding-top: 80px;
+}
+

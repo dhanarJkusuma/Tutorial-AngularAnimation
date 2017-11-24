@@ -1,0 +1,11 @@
+.loading-component > p{
+    color: white;
+}
+
+.loading-component{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
